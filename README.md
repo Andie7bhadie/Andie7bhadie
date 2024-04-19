@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">
-        <h1 style="border-bottom: 2px solid blue;">¡Hola! Soy Andrea. Bienvenido a mi perfil de GitHub.👋</h1>
+        <h1 style="border-bottom: 2px solid blue;">¡Hola! Soy Andrea.👋</h1>
 </div>
 
 
