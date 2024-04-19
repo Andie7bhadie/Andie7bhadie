@@ -33,7 +33,7 @@ En mi perfil de GitHub, encontrarás una variedad de proyectos que reflejan mi a
 ---
 ### Mis Repos
 
-###  🐾 [Happy Paws](https://github.com/tu-usuario/proyecto-1) 🐾
+###  🐾 [Happy Paws](https://github.com/Andie7bhadie/Happy_paws) 🐾
 
 Página web dinámica para que los profesionales del cuidado animal puedan promocionarse y que los clientes puedan contactar fácilmente con ellos.
 
