@@ -14,7 +14,7 @@ Inicialmente, me formé en delineación, donde aprendí a dar vida a ideas y con
 Habiendo encontrado una nueva pasión en la programación, me he dedicado a adquirir habilidades y conocimientos en esta área, haciendo proyectos y practicado lo aprendido. Actualmente, estoy interesada en el mundo de la gestión de los datos.
 
 ---
-  ### Lenguajes y tecnologías que conozco 🔧
+  ### Lenguajes y tecnologías que utilizo 🔧
 
 <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" style="width: 45px; height: 45px;"> &nbsp;&nbsp;&nbsp;
