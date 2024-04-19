@@ -1,4 +1,5 @@
 <div align="center">
+<div align="center">
         <h1 style="border-bottom: 2px solid blue;">¡Hola! Soy Andrea. Bienvenido a mi perfil de GitHub.👋</h1>
 </div>
 
@@ -34,14 +35,14 @@ En mi perfil de GitHub, encontrarás una variedad de proyectos que reflejan mi a
 
 ###  🐾 [Happy Paws](https://github.com/tu-usuario/proyecto-1) 🐾
 
-[Breve descripción del proyecto 1.]
+Página web dinámica para que los profesionales del cuidado animal puedan promocionarse y que los clientes puedan contactar fácilmente con ellos.
 
-Tecnologías: HTML, CSS, JavaScript,React
+Tecnologías: HTML, CSS, JavaScript,React,Php,Xampp
 
 
 ###  📊 [Análisis de la compraventa de vivienda en España](https://github.com/tu-usuario/proyecto-2) 📊
 
-[Análisis de los datos proporcionados por el gobierno de la compraventa de vivienda en España ]
+Análisis de los datos proporcionados por el gobierno de la compraventa de vivienda en España.
 
 Tecnologías: Python,Pandas,Numpy,Matplotlib,Jupyternotebook
 
@@ -50,4 +51,4 @@ Tecnologías: Python,Pandas,Numpy,Matplotlib,Jupyternotebook
 <p>Me puedes encontrar en LinkedIn como <a href="https://www.linkedin.com/in/andrea-perez-vozmediano">Andrea Pérez Vozmediano</a>.</p>
 <p>También puedes contactarme por este email andreapv1997@gmail.com</p>
 <p>¡No dudes en explorar mis proyectos!</p>
-
+</div>
