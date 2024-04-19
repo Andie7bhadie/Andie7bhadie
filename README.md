@@ -23,6 +23,7 @@ Habiendo encontrado una nueva pasión en la programación, me he dedicado a adqu
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" style="width: 45px; height: 45px;"> &nbsp;&nbsp;&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" style="width: 45px; height: 45px;"> &nbsp;&nbsp;&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mysql.svg/800px-Mysql.svg.png" alt="MySQL Logo" style="width: 45px; height: 45px;"> &nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" style="width: 45px; height: 45px;"> &nbsp;&nbsp;&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" style="width: 45px; height: 45px;">
 </div>
 
