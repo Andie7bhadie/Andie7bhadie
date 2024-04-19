@@ -45,7 +45,7 @@ Tecnologías: HTML, CSS, JavaScript,React,Php,Xampp
 Análisis de los datos proporcionados por el gobierno de la compraventa de vivienda en España.
 
 Tecnologías: Python,Pandas,Numpy,Matplotlib,Jupyternotebook
-
+---
 ### Contáctame  ☎️
 
 <p>Me puedes encontrar en LinkedIn como <a href="https://www.linkedin.com/in/andrea-perez-vozmediano">Andrea Pérez Vozmediano</a>.</p>
