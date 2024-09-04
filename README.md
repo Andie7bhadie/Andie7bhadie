@@ -36,6 +36,13 @@ Habiendo encontrado una nueva pasión en la programación, me he dedicado a adqu
 En mi perfil de GitHub, encontrarás una variedad de proyectos que reflejan mi aprendizaje en el mundo de la programación y los datos. Desde proyectos de desarrollo web hasta análisis de datos, cada uno representa un paso en mi camino hacia el dominio de estas disciplinas.
 
 ---
+### Formación
+
+ Técnico superior  en desarrollo web (DAW) &nbsp;&nbsp;&nbsp;
+ Database Administrator mongodb Atlas &nbsp;&nbsp;&nbsp;
+ PL/SQL developer Oracle &nbsp;&nbsp;&nbsp;
+
+---
 ### Mis Repos
 
 ###  🐾 [Happy Paws](https://github.com/Andie7bhadie/Happy_paws) 🐾
