@@ -25,6 +25,8 @@ Habiendo encontrado una nueva pasión en la programación, me he dedicado a adqu
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mysql.svg/800px-Mysql.svg.png" alt="MySQL Logo" style="width: 45px; height: 45px;"> &nbsp;&nbsp;&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" style="width: 45px; height: 45px;"> &nbsp;&nbsp;&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" style="width: 45px; height: 45px;">
+    <img src="https://tu-dominio.com/imagenes/logo-mongodb.png" alt="Logo de MongoDB"  style="width: 45px; height: 45px;">
+        
 </div>
 
 ### ¿Qué encontrarás en mi perfil?
