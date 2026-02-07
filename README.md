@@ -40,7 +40,7 @@ En mi perfil de GitHub, encontrarás una variedad de proyectos que reflejan mi a
 
  Técnico superior  en desarrollo web (DAW) &nbsp;&nbsp;&nbsp;
  Database Administrator mongodb Atlas &nbsp;&nbsp;&nbsp;
- PL/SQL developer Oracle &nbsp;&nbsp;&nbsp;
+ Degree in Data Science &nbsp;&nbsp;&nbsp;
 
 ---
 ### Mis Repos
